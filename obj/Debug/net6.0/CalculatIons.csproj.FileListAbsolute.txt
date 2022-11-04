@@ -1,0 +1,15 @@
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\obj\Debug\net6.0\CalculatIons.csproj.AssemblyReference.cache
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\obj\Debug\net6.0\CalculatIons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\obj\Debug\net6.0\CalculatIons.AssemblyInfoInputs.cache
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\obj\Debug\net6.0\CalculatIons.AssemblyInfo.cs
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\obj\Debug\net6.0\CalculatIons.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\bin\Debug\net6.0\CalculatIons.exe
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\bin\Debug\net6.0\CalculatIons.deps.json
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\bin\Debug\net6.0\CalculatIons.runtimeconfig.json
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\bin\Debug\net6.0\CalculatIons.dll
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\bin\Debug\net6.0\CalculatIons.pdb
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\obj\Debug\net6.0\CalculatIons.dll
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\obj\Debug\net6.0\refint\CalculatIons.dll
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\obj\Debug\net6.0\CalculatIons.pdb
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\obj\Debug\net6.0\CalculatIons.genruntimeconfig.cache
+C:\Users\singh\source\repos\BridgeLabz\Calculator\CalculatIons\obj\Debug\net6.0\ref\CalculatIons.dll
